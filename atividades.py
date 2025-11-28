@@ -1,5 +1,4 @@
-"""atividades.py
-Trabalho: 3 atividades conforme solicitado.
+"""
 1) Pergunta nome, idade e cidade e exibe mensagem completa.
 2) Pergunta um número e informa se é positivo, negativo ou zero.
 3) Pergunta peso e altura, calcula o IMC e classifica: Abaixo do peso, Normal, Sobrepeso, Obesidade.
